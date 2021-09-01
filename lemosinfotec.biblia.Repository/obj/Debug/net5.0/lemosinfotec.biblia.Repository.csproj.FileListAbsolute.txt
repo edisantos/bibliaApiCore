@@ -1,0 +1,17 @@
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Repository.deps.json
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Repository.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\ref\lemosinfotec.biblia.Repository.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Repository.pdb
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Data.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Domain.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Data.pdb
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\bin\Debug\net5.0\lemosinfotec.biblia.Domain.pdb
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.csproj.AssemblyReference.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.AssemblyInfoInputs.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.AssemblyInfo.cs
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.csproj.CoreCompileInputs.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.csproj.CopyComplete
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\ref\lemosinfotec.biblia.Repository.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Repository\obj\Debug\net5.0\lemosinfotec.biblia.Repository.pdb

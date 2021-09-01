@@ -1,0 +1,12 @@
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\bin\Debug\net5.0\lemosinfotec.biblia.Domain.deps.json
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\bin\Debug\net5.0\lemosinfotec.biblia.Domain.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\bin\Debug\net5.0\ref\lemosinfotec.biblia.Domain.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\bin\Debug\net5.0\lemosinfotec.biblia.Domain.pdb
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.csproj.AssemblyReference.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.AssemblyInfoInputs.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.AssemblyInfo.cs
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.csproj.CoreCompileInputs.cache
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\ref\lemosinfotec.biblia.Domain.dll
+E:\Estudo\APIS\apibiblia\lemosinfotec.biblia\lemosinfotec.biblia.Domain\obj\Debug\net5.0\lemosinfotec.biblia.Domain.pdb
